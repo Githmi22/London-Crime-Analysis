@@ -8,12 +8,6 @@
 ## 📄 Overview
 This project presents a data dashboard of UK Metropolitan Police monthly crime data. It outlines the process of cleaning raw crime data in Excel, importing it into SQL Server, and visualizing insights in Power BI.
 
-## 👥 Team Members
-- D/ADC/23/0001 – RDDU Damruwan  
-- D/ADC/23/0005 – GY Punchihewa  
-- D/ADC/23/0006 – HTSH Samadhi  
-- D/ADC/23/0042 – YML Kavindya  
-
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
 - Microsoft SQL Server
